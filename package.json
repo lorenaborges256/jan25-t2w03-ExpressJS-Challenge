@@ -1,0 +1,25 @@
+{
+  "name": "jan25-t2w03-expressjs-challenge",
+  "version": "1.0.0",
+  "description": "Create an ExpressJS server following the Challenge instructions and the lesson.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lorenaborges256/jan25-t2w03-ExpressJS-Challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/lorenaborges256/jan25-t2w03-ExpressJS-Challenge/issues"
+  },
+  "homepage": "https://github.com/lorenaborges256/jan25-t2w03-ExpressJS-Challenge#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
